@@ -1,0 +1,234 @@
+{
+  "home": "Home",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "explore": "Explore",
+  "@explore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "heart": "Heart",
+  "@heart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cart": "Cart",
+  "@cart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile": "Profile",
+  "@profile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+    "discovery": "Discovery",
+    "@discovery": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "title_discovery": "Let's explore beauty together now",
+        "@title_discovery": {
+          "type": "text",
+          "placeholders": {}
+        },
+  "location_search": "Viet Nam",
+              "@location_search": {
+                "type": "text",
+                "placeholders": {}
+              },
+
+  "darkAppearance": "Dark Appearance",
+  "@darkAppearance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all": "All",
+    "@all": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "quang_ngai": "Quảng Ngãi",
+      "@quang_ngai": {
+        "type": "text",
+        "placeholders": {}
+      },
+   "sai_gon": "Sài Gòn ",
+        "@sai_gon": {
+          "type": "text",
+          "placeholders": {}
+        },
+       "da_nang": "Đà Nẵng ",
+            "@da_nang": {
+              "type": "text",
+              "placeholders": {}
+            },
+
+   "ha_noi": "Hà Nội ",
+              "@ha_noi": {
+                "type": "text",
+                "placeholders": {}
+              },
+   "category": "Best Hotels",
+       "@category": {
+         "type": "text",
+         "placeholders": {}
+       },
+  "language": "Language",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quyDinh": "Regulations",
+  "@quyDinh": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "khungCanh": "Scenery",
+  "@khungCanh": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thanhToanTrucTuyen": "Online Payment",
+  "@thanhToanTrucTuyen": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dem": "Night",
+  "@dem": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "moCuaHangNgay": "Open Shop Today",
+  "@moCuaHangNgay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hoatDong": "Activity",
+  "@hoatDong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "khachSanGanDo": "Nearby Hotels",
+  "@khachSanGanDo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tu": "From",
+  "@tu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dat": "Book",
+  "@dat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "soLuongPhongVaKhach": "Number of Rooms and Guests",
+  "@soLuongPhongVaKhach": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phong": "Room",
+  "@phong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nguoiLon": "Adult",
+  "@nguoiLon": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trEm": "Child",
+  "@trEm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hoanThanh": "Complete",
+  "@hoanThanh": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nhanPhongVaTraPhong": "Check-in and Check-out",
+  "@nhanPhongVaTraPhong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phongVaKhach": "Rooms and Guests",
+  "@phongVaKhach": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chiTiet": "Details",
+  "@chiTiet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "giuong": "Bed",
+  "@giuong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timKiem": "Search",
+  "@timKiem": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mucYeuThich": "Favorites",
+  "@mucYeuThich": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thanhToanThanhCong": "Payment Successful",
+  "@thanhToanThanhCong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tiepTucDatKhachSan": "Continue Booking Hotel",
+  "@tiepTucDatKhachSan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thanhToan": "Payment",
+  "@thanhToan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tongTien": "Total",
+  "@tongTien": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "moTa": "Description",
+  "@moTa": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tienIch": "utilitaires",
+  "@tienIch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "giaCu": "Price",
+  "@giaCu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "giaMoi": "New Price",
+  "@giaMoi": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tatCa": "ALL",
+  "@tatCa": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
